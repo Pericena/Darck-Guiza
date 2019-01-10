@@ -6,3 +6,13 @@
 - En el comando use te pedira un usuario y password y para eso tendras que dirigirse con desarrollador ..
 
 ##### Mas información https://aminoapps.com/c/world-hacking/page/blog/proyecto-darck-y-guiza-finalizado/kYjR_xkFGu4DV4XdbxE56ZJ200vJB46nWM
+
+
+
+#### Autor Luishiño Pericena Choque
+### Informacion:
+#### Sigueme en las redes Sociales:
+- Blogger          https://lpericena.blogspot.com/
+- Github            https://github.com/Pericena
+- youtube.com  https://www.youtube.com/channel/UCELx1m-NeAdBn7mCuQ86kcw
+
