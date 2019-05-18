@@ -6,8 +6,9 @@
 - Hay mas payloads y para eso usas el comando use
 - En el comando use te pedira un usuario y password y para eso tendras que dirigirse con desarrollador ..
 
-##### Mas información https://aminoapps.com/c/world-hacking/page/blog/proyecto-darck-y-guiza-finalizado/kYjR_xkFGu4DV4XdbxE56ZJ200vJB46nWM
-
+##### Mas información
+- https://aminoapps.com/c/Cyber-Hacking/recent/
+- https://www.lpericena.tk/
 
 ### Sigueme en las redes Sociales:
 - 🌎Blogger          https://lpericena.blogspot.com/
